@@ -9,7 +9,7 @@ import { GifGrid } from './components/GifGrid';
 export const GifExpertApp = () => {
 
     /* const categories = ['one punch', 'samurai x', 'dragon ball'] */
-    const [categories, setcategories] = useState(['Sword Art Online'])
+    const [categories, setcategories] = useState(['Full metal alchemist'])
 
     //  const handleAdd = () => {
     //  setcategories([...categories, 'Sword Art Online'])  /* ...categories -- es el estado anterior del array "," lo nuevo que quiero agregar*/
